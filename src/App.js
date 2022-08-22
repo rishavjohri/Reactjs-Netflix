@@ -4,7 +4,7 @@ import requests from "./request";
 import Banner from "./Banner";
 import Nav from "./Nav";
 function App() {
-  return (
+  return ( 
     <div className="app">
       {/* navbar */}
       <Nav />
